@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"564d54e2916d3ae1","x":-80,"y":-240,"width":250,"height":50,"type":"text","text":"MATU 1.7"},
+		{"id":"2d8b68313306f72d","type":"text","text":"MATU 1.7","x":-125,"y":-25,"width":250,"height":50}
+	],
+	"edges":[
+		{"id":"fc8a00797593af2d","fromNode":"564d54e2916d3ae1","fromSide":"bottom","toNode":"2d8b68313306f72d","toSide":"top"}
+	]
+}

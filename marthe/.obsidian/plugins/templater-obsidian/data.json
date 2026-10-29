@@ -1,0 +1,58 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "99-templates",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": true,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "00-dailies",
+      "template": "99-templates/Daily.md"
+    },
+    {
+      "folder": "01-meetings",
+      "template": "99-templates/Meeting.md"
+    },
+    {
+      "folder": "02-contacts",
+      "template": "99-templates/Contact.md"
+    },
+    {
+      "folder": "03-projects",
+      "template": "99-templates/Projet.md"
+    },
+    {
+      "folder": "04-processes",
+      "template": "99-templates/Processus.md"
+    },
+    {
+      "folder": "05-learnings",
+      "template": "99-templates/Formation.md"
+    }
+  ],
+  "enable_file_templates": false,
+  "file_templates": [
+    {
+      "regex": ".*",
+      "template": ""
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [
+    ""
+  ],
+  "startup_templates": [
+    ""
+  ],
+  "intellisense_render": 1
+}
