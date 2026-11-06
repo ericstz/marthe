@@ -32,13 +32,21 @@ tags:
 
 ## 🎯 Actions
 
-- [ ] Faire un bilan prod global anné📅 2026-09-15 
+- [ ] Faire un bilan prod global année📅 2026-09-15 
 - [ ] Faire un bilan des jeunes nommés depuis le début d'année 📅 2026-09-14 
 - [ ] Julie prépare un fichier sur les no show par agent 
 - [ ] Discuter des CA
+
+
+
+---
+
 
 
 ## 🔗 Références
 
 - Lien mail / Teams :
 - Documents :
+
+
+

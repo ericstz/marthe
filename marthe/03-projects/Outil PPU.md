@@ -8,8 +8,8 @@ tags:
   - reunion
 ---
 
-- [ ] Calcul PFTN noel 6 OCCA CAMPUS 📅 2026-10-30 
-- [ ] Voir avec Thierry les extractions des affiches horaires 📅 2026-10-30 
+- [x] Calcul PFTN noel 6 OCCA CAMPUS 📅 2026-10-30 ✅ 2026-10-31
+- [x] Voir avec Thierry les extractions des affiches horaires 📅 2026-10-30 ✅ 2026-10-31
 
 A sonder semaine 4 ARC
 
@@ -127,9 +127,7 @@ Keep the current page and KPI, if necessary update/enhance UI
 
 6. O & A / Roulements
 
--> This page will be redefined for the ensemble roulement. Here are some KPI to inspire you : 
-
-
+-> This page will be redefined for the ensemble roulement. We will look for the number of week ends where there are some RP
 
 
 OK Page JS : create an ER analysis tool
@@ -138,14 +136,8 @@ Page Scenarios travaux
 
 Calendar of application
 Definition of km and nb of impacted days per scenario
-Even with limitation
 
-
--> Create Budget Page
-Create base week from projet
-Extrapolate on whole year
-Remove KM and JS From travaux scenario application
-
+Next to come...
 
 
 ---
@@ -164,6 +156,7 @@ The main data used by this app are
 | Service Annuel (SA)        | SA{yyyy}            | Generated at DB Reset  |                                          | Yes        | Period of time that defines the work done by the transport planner. Transport plans are made for a specific SA most of the times.<br>It is linked to a year (2027 for example) and spans from the second Sunday of December Year Y-1 to the second Saturday of December Y |
 | Sous-service (SSA)         | SA{yyyy}_{SSA_name} | Reading files from ETL |                                          | No         |                                                                                                                                                                                                                                                                           |
 | Version de roulement (PVR) | PVR_name            | Reading files from ETL |                                          |            |                                                                                                                                                                                                                                                                           |
+|                            |                     |                        |                                          |            |                                                                                                                                                                                                                                                                           |
 
 
 
@@ -177,7 +170,9 @@ The main data used by this app are
 		- Can be the whole service annuel or pieces of this one. It is only used to have a different train timetable if necessary (for example, we open a new line mid year thus we have different train voyages object times or list of sillons)
 		- To 
 	- Resources usage project (PVR). One year of application can hold several service annuel projects, one of these projects can be marked as "main" and other as projects or variants, the user can define which service annuel is the main one, a default one is issued from the ETL. (Source : from app generation)
+
 	- Train Passenger lines operating names. We should have the names of lines N, U, V for the moment. (Source : from app generation with checking of ETL folder names)
+
 	- General physical infrastructure 
 		- SNCF RESEAU - Gaia tool
 			- Objects : 
@@ -239,3 +234,8 @@ Then we have usage data, the core of the app
 ---
 
 
+#### Construction de la maquette budgétaire
+
+Utilisation de l'outil mais préparation des saisies des évènements travaux.
+
+Où trouve-t-on l'information ? Dans la synthèse travaux Week-end...

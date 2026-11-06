@@ -58,7 +58,7 @@ Aujourd'hui, il fait
 	- [x] faire liste des mails de cette semaine et semaine derniere ✅ 2026-10-14
 	- [x] Lancer cagnotte pot olivier ✅ 2026-10-14
 	- [x] Préparer Réunion LTVs ✅ 2026-10-14
-	- [ ] Relancer Stéphane sur propal salariale joe et julie 📅 2026-10-30
+	- [x] Relancer Stéphane sur propal salariale joe et julie 📅 2026-10-30 ✅ 2026-11-02
 	- [x] Demander gratex (,) ✅ 2026-10-14
 	- [ ] Reprogrammer point de site
 - [x] pour le cOPIl travaux  : slide prise en charge a faire notamment sur ✅ 2026-10-14

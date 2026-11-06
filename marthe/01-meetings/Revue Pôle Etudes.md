@@ -63,3 +63,61 @@ Travaux
 -> Revue Travaux
 
 
+# 2026 11 06 - Bilat Joe
+
+
+
+## Besoins
+
+- Génération des affiches
+- Fiche travaux 
+
+
+>Faire les tâches de mon équipe.
+
+Recueil d'étonnements
+
+- Les fichiers
+
+
+-> Décembre
+
+Formation / ressources sur les questions RH
+
+## Arrivée 
+
+
+## RH -  
+
+
+RAS : avenants télétravail avec journées fixes. 
+
+Alberto : reprise des jours de TT Lundi et mardi
+
+Thierry Leran : 
+
+Autre irritant : Fermeture des locaux à clé et canifer
+
+Ic@re : demander une habilitation
+
+Habilitations : Retour de Sylvain
+
+
+## Production en cours
+
+
+Travaux : A-3  : SA2029
+
+SA2028 : 
+
+EOLE PT5
+
+2027 
+- LTV POA 40
+- Etudes N. Feron à propos du PRA Brune dès 2027
+Pour la course Paris Versailles
+Avec impact de décalage horaire de 3 minutes 
+
+
+
+
